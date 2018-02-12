@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://bsidesok.com/tickets.html</loc>
+    
+    <lastmod>2018-02-12T15:44:25.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://bsidesok.com/training.html</loc>
     
-    <lastmod>2018-02-12T05:24:18.000Z</lastmod>
+    <lastmod>2018-02-12T05:41:04.000Z</lastmod>
     
   </url>
   
@@ -47,13 +54,6 @@
     <loc>http://bsidesok.com/about-conference.html</loc>
     
     <lastmod>2017-10-19T21:51:13.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/tickets.html</loc>
-    
-    <lastmod>2017-10-19T21:43:50.000Z</lastmod>
     
   </url>
   
