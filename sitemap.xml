@@ -2,6 +2,426 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://bsidesok.com/index.html</loc>
+    
+    <lastmod>2018-03-26T04:57:43.670Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/schedule.html</loc>
+    
+    <lastmod>2018-03-26T04:56:00.393Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/empty/entry.html</loc>
+    
+    <lastmod>2018-03-26T04:42:20.687Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/panel/entry.html</loc>
+    
+    <lastmod>2018-03-26T04:40:57.475Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/sponsorship.html</loc>
+    
+    <lastmod>2018-03-26T03:58:09.524Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/jj-asghar/entry.html</loc>
+    
+    <lastmod>2018-03-26T02:36:33.622Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/todd-oboyle/entry.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.959Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/todd-oboyle/bio.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.959Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/todd-oboyle/description.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.959Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/tim-medin/entry.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.959Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/stephen-nelson/entry.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.958Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/stephen-nelson/bio.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.958Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/tim-medin/description.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.958Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/tim-medin/bio.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.958Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/stephen-nelson/description.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.958Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/spencer-davis/entry.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.957Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/spencer-davis/description.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.957Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/spencer-davis/bio.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.957Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/ramece-cave/entry.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.957Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/ramece-cave/description.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.956Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/ramece-cave/bio.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.956Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/nathan-sweaney/entry.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.956Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/nathan-sweaney/description.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.956Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/nathan-sweaney/bio.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.955Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/mikhail-sudakov/entry.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.955Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/mikhail-sudakov/description.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.955Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/mikhail-sudakov/bio.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.955Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/lunch/entry.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.954Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/michael-oglesby/description.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.954Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/michael-oglesby/entry.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.954Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/michael-oglesby/bio.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.954Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/luke-crouch/entry.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.954Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/luke-crouch/description.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.953Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/luke-crouch/bio.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.952Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/kevin-johnson/entry.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.952Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/kevin-johnson/bio.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.951Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/kevin-johnson/description.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.951Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/jj-asghar/description.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.951Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/jj-asghar/bio.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.950Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/jason-gillam/entry.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.950Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/jason-gillam/description.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.950Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/jason-gillam/bio.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.950Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/erin-vance/bio.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.949Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/erin-vance/entry.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.949Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/erin-vance/description.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.949Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/bobby-simpson/entry.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.949Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/ado-kukic/description.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.948Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/ado-kukic/entry.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.948Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/bobby-simpson/bio.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.948Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/bobby-simpson/description.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.948Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/Seth-Jaffe/description.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.947Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/ado-kukic/bio.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.947Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/Seth-Jaffe/entry.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.947Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/Ramiro-Pozzani/entry.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.946Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/Seth-Jaffe/bio.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.946Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/Ramiro-Pozzani/description.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.946Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/Ramiro-Pozzani/bio.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.945Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/Michael-Gough/entry.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.944Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/Michael-Gough/description.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.944Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/Michael-Gough/bio.html</loc>
+    
+    <lastmod>2018-03-26T02:31:08.943Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://bsidesok.com/training.html</loc>
     
     <lastmod>2018-02-13T04:28:12.000Z</lastmod>
@@ -12,6 +432,13 @@
     <loc>http://bsidesok.com/tickets.html</loc>
     
     <lastmod>2018-02-12T15:44:25.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/volunteer.html</loc>
+    
+    <lastmod>2018-02-11T04:16:37.000Z</lastmod>
     
   </url>
   
@@ -30,30 +457,30 @@
   </url>
   
   <url>
-    <loc>http://bsidesok.com/sponsorship.html</loc>
-    
-    <lastmod>2018-02-11T04:16:37.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/volunteer.html</loc>
-    
-    <lastmod>2018-02-11T04:16:37.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/index.html</loc>
-    
-    <lastmod>2017-12-07T20:28:06.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://bsidesok.com/about-conference.html</loc>
     
     <lastmod>2017-10-19T21:51:13.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/other.html</loc>
+    
+    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/example/entry.html</loc>
+    
+    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/example-keynote/bio.html</loc>
+    
+    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
     
   </url>
   
@@ -65,21 +492,7 @@
   </url>
   
   <url>
-    <loc>http://bsidesok.com/scholarship.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/2017/10/19/hello-world/</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/code-of-conduct.html</loc>
+    <loc>http://bsidesok.com/speakers/example-keynote/entry.html</loc>
     
     <lastmod>2017-10-19T19:14:17.000Z</lastmod>
     
@@ -93,7 +506,7 @@
   </url>
   
   <url>
-    <loc>http://bsidesok.com/location.html</loc>
+    <loc>http://bsidesok.com/speakers/panel/bio.html</loc>
     
     <lastmod>2017-10-19T19:14:17.000Z</lastmod>
     
@@ -107,7 +520,14 @@
   </url>
   
   <url>
-    <loc>http://bsidesok.com/other.html</loc>
+    <loc>http://bsidesok.com/speakers/panel/description.html</loc>
+    
+    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/2017/10/19/hello-world/</loc>
     
     <lastmod>2017-10-19T19:14:17.000Z</lastmod>
     
@@ -135,14 +555,14 @@
   </url>
   
   <url>
-    <loc>http://bsidesok.com/slides/day-two-schedule.html</loc>
+    <loc>http://bsidesok.com/slides/day-one-schedule.html</loc>
     
     <lastmod>2017-10-19T19:14:17.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://bsidesok.com/slides/day-one-schedule.html</loc>
+    <loc>http://bsidesok.com/slides/day-two-schedule.html</loc>
     
     <lastmod>2017-10-19T19:14:17.000Z</lastmod>
     
@@ -177,147 +597,21 @@
   </url>
   
   <url>
-    <loc>http://bsidesok.com/speakers/andy-thompson/bio.html</loc>
+    <loc>http://bsidesok.com/scholarship.html</loc>
     
     <lastmod>2017-10-19T19:14:17.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://bsidesok.com/speakers/andy-thompson/description.html</loc>
+    <loc>http://bsidesok.com/code-of-conduct.html</loc>
     
     <lastmod>2017-10-19T19:14:17.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://bsidesok.com/speakers/andy-thompson/entry.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/bobby-simpson/bio.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/bobby-simpson/description.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/bobby-simpson/entry.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/chris-yates/bio.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/chris-yates/description.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/chris-yates/entry.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/dallas-haselhorst/bio.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/dallas-haselhorst/description.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/dallas-haselhorst/entry.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/dan-bougere/bio.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/dan-bougere/description.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/dan-bougere/entry.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/donovan-farrow/bio.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/donovan-farrow/description.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/donovan-farrow/entry.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/example-keynote/bio.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/schedule.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/example-keynote/entry.html</loc>
+    <loc>http://bsidesok.com/location.html</loc>
     
     <lastmod>2017-10-19T19:14:17.000Z</lastmod>
     
@@ -332,286 +626,6 @@
   
   <url>
     <loc>http://bsidesok.com/speakers/example/description.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/example/entry.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/frank-gifford/bio.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/frank-gifford/description.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/frank-gifford/entry.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/greg-guhin/bio.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/greg-guhin/description.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/greg-guhin/entry.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/jack-daniel/bio.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/jack-daniel/description.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/jack-daniel/entry.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/jason-holcomb/bio.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/jason-holcomb/description.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/jason-holcomb/entry.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/johnny-long/bio.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/johnny-long/entry.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/johnny-long/description.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/luke-crouch/bio.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/luke-crouch/description.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/luke-crouch/entry.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/luke-crouch2/bio.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/luke-crouch2/description.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/luke-crouch2/entry.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/mic-whitehorn-gillam/bio.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/mic-whitehorn-gillam/description.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/mic-whitehorn-gillam/entry.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/nathan-keltner/bio.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/nathan-keltner/description.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/nathan-keltner/entry.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/panel/bio.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/panel/description.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/panel/entry.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/ramece-cave/bio.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/ramece-cave/description.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/ramece-cave/entry.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/rodney-beede/bio.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/rodney-beede/description.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/rodney-beede/entry.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/rich-lay/bio.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/rich-lay/description.html</loc>
-    
-    <lastmod>2017-10-19T19:14:17.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/rich-lay/entry.html</loc>
     
     <lastmod>2017-10-19T19:14:17.000Z</lastmod>
     
