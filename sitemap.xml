@@ -2,16 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://bsidesok.com/other.html</loc>
+    <loc>http://bsidesok.com/sponsorship.html</loc>
     
-    <lastmod>2018-04-11T04:28:49.697Z</lastmod>
+    <lastmod>2018-04-13T03:22:30.862Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://bsidesok.com/sponsorship.html</loc>
+    <loc>http://bsidesok.com/speakers/rich-lay/description.html</loc>
     
-    <lastmod>2018-04-11T04:19:19.188Z</lastmod>
+    <lastmod>2018-04-13T03:22:30.862Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/ramece-cave/entry.html</loc>
+    
+    <lastmod>2018-04-13T03:22:30.862Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/speakers/panel/entry.html</loc>
+    
+    <lastmod>2018-04-13T03:22:30.861Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/schedule.html</loc>
+    
+    <lastmod>2018-04-13T03:22:30.860Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://bsidesok.com/other.html</loc>
+    
+    <lastmod>2018-04-11T04:28:49.697Z</lastmod>
     
   </url>
   
@@ -51,27 +79,6 @@
   </url>
   
   <url>
-    <loc>http://bsidesok.com/speakers/rich-lay/description.html</loc>
-    
-    <lastmod>2018-03-30T19:19:17.614Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/ramece-cave/entry.html</loc>
-    
-    <lastmod>2018-03-30T19:19:17.613Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/speakers/panel/entry.html</loc>
-    
-    <lastmod>2018-03-30T19:19:17.612Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://bsidesok.com/speakers/nathan-sweaney/entry.html</loc>
     
     <lastmod>2018-03-30T19:19:17.612Z</lastmod>
@@ -93,14 +100,14 @@
   </url>
   
   <url>
-    <loc>http://bsidesok.com/speakers/mike-mattice/bio.html</loc>
+    <loc>http://bsidesok.com/speakers/mike-mattice/entry.html</loc>
     
     <lastmod>2018-03-30T19:19:17.609Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://bsidesok.com/speakers/mike-mattice/entry.html</loc>
+    <loc>http://bsidesok.com/speakers/mike-mattice/bio.html</loc>
     
     <lastmod>2018-03-30T19:19:17.609Z</lastmod>
     
@@ -180,13 +187,6 @@
     <loc>http://bsidesok.com/speakers/Ramiro-Pozzani/entry.html</loc>
     
     <lastmod>2018-03-30T19:19:17.601Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://bsidesok.com/schedule.html</loc>
-    
-    <lastmod>2018-03-30T19:19:17.600Z</lastmod>
     
   </url>
   
